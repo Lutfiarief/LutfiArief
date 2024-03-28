@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Perkenalkan nama saya **Lutfi Arief Noerjaman**.<br>
+Saya seorang **Cloud Computing Cohort** di Bangkit Academy.<br>
+
+Saya juga memiliki beberapa gelar sertifikat Dicoding dan Google CLoud Skill Booster sejak 2024.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/lutfi-arief-noerjaman-745348261)ku ya.
 <!--
 **Lutfiarief/LutfiArief** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
